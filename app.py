@@ -1,5 +1,4 @@
-def check_status(value)
-    if value > 10
+    if 5 > 10
         print("High value")
       else
         print("Low value"
